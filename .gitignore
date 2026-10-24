@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+auto_play.log
+screen.png
+crop.png
+*.png
